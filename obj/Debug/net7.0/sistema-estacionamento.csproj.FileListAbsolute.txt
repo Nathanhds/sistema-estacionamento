@@ -1,0 +1,14 @@
+/Users/nathansilva/Programacao/sistema-estacionamento/bin/Debug/net7.0/sistema-estacionamento
+/Users/nathansilva/Programacao/sistema-estacionamento/bin/Debug/net7.0/sistema-estacionamento.deps.json
+/Users/nathansilva/Programacao/sistema-estacionamento/bin/Debug/net7.0/sistema-estacionamento.runtimeconfig.json
+/Users/nathansilva/Programacao/sistema-estacionamento/bin/Debug/net7.0/sistema-estacionamento.dll
+/Users/nathansilva/Programacao/sistema-estacionamento/bin/Debug/net7.0/sistema-estacionamento.pdb
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.AssemblyInfoInputs.cache
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.AssemblyInfo.cs
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.csproj.CoreCompileInputs.cache
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.dll
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/refint/sistema-estacionamento.dll
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.pdb
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/sistema-estacionamento.genruntimeconfig.cache
+/Users/nathansilva/Programacao/sistema-estacionamento/obj/Debug/net7.0/ref/sistema-estacionamento.dll
